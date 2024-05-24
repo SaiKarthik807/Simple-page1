@@ -1,0 +1,41 @@
+body{
+    background-color: black;
+}
+.nav{
+    position: relative;
+    left: 81px;
+    top: 18px;
+}
+
+.nav-item5{
+    position: relative;
+    left: 451px;
+    top: 7px; 
+}
+
+.bd1{
+    position: absolute;
+    top: 111px;
+    left: 40px;
+
+}
+
+.bd2{
+    position: absolute;
+    left: 41px;   
+}
+
+.bd3{
+    position: relative;
+    top: 21px;
+    left: 41px;
+    font-size: 789;
+    font-weight: 911;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 85px;
+}
+
+.col-4{
+    position: relative;
+    top: 141px;
+}
